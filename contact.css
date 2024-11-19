@@ -1,0 +1,15 @@
+h3{
+    font-size: 150px;
+}
+.button{
+   font-size: 100px;
+   padding-top: 10%;
+   padding-left: 30%;
+}
+.back{
+    background-color: lightcyan;
+}
+.contact{
+    background-color: lightyellow;
+    font-size: 100px;
+}
