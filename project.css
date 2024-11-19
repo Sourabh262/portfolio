@@ -1,0 +1,11 @@
+*{
+    font-size: 200px;
+}
+body{
+    background-color: lightgreen;
+}
+.button{
+    font-size: 100px;
+    padding-top: 10%;
+    padding-left: 30%;
+ }
